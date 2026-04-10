@@ -31,7 +31,8 @@ Através da conversão de tipos `datetime`, calculei o Lead Time real vs. estima
 ## 📁 Estrutura do Repositório
 * `Analise_Exploratoria.ipynb`: Notebook com todo o processo de limpeza, merge de 5 tabelas e análise estatística.
 * `Dashboard_Olist.pbix`: Arquivo do Power BI com visões interativas de logística e vendas. 
-![Gráfico com visões interativas de logística e vendas](Dashboard_Olist.pbix)
+
+![Gráfico com visões interativas de logística e vendas](DashBoard_Olist.png)
 
 ## 👤 Autor
 **Igor Carvalho**
