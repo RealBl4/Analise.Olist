@@ -1,3 +1,4 @@
+![Gráfico com visões interativas de logística e vendas](DashBoard_Olist.png)
 # 📊 Análise de Dados E-commerce: Olist Store
 Este projeto apresenta uma análise 360º de uma operação de e-commerce brasileira, utilizando Python para engenharia de dados e Power BI para visualização estratégica.
 
