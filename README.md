@@ -5,6 +5,14 @@ Este projeto apresenta uma análise 360º de uma operação de e-commerce brasil
 ## 🚀 Objetivo
 Identificar gargalos logísticos, padrões de consumo regional e oportunidades de faturamento para otimizar a operação de vendas.
 
+## 🛠️ Diferenciais Técnicos do Projeto
+
+Modelagem de Dados & DAX: Implementação de medidas dinâmicas para ranking (Top N) e identificação da categoria principal por estado.
+
+UX Avançado (Tooltips): Criação de páginas de dica de ferramenta (Tooltips) personalizadas que detalham o faturamento por categoria ao passar o mouse sobre o mapa, otimizando o espaço do dashboard.
+
+Engenharia de Dados com Python: Merge e tratamento de múltiplas bases de dados relacionais para consolidação de uma visão única de performance.
+
 ## 🛠️ Tecnologias Utilizadas
 * **Python 3.10** (Pandas, Matplotlib, Seaborn, Plotly)
 * **VS Code** (Ambiente de desenvolvimento)
@@ -25,7 +33,7 @@ As categorias de "Cama, Mesa e Banho" e "Beleza e Saúde" lideram em volume de p
 *Nota: Visualização interativa gerada com Plotly.*
 
 ### 3. Eficiência Logística
-Através da conversão de tipos `datetime`, calculei o Lead Time real vs. estimado. A análise revelou que a Olist mantém uma política de prazos conservadora, entregando a grande maioria dos pedidos bem antes da data prometida, especialmente em estados mais distantes.
+A análise revelou um SLA negativo médio de até X dias em estados como o Acre, sugerindo uma oportunidade de otimização na promessa de entrega para aumentar a conversão de vendas.
 
 ![Gráfico de Performance Logística](Atraso_Médio_na_Entrega_por_Estado_(Dias).png)
 
