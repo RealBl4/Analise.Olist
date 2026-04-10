@@ -17,7 +17,7 @@ O estado de São Paulo concentra a maior parte da operação, representando apro
 
 ![Gráfico de Faturamento por Estado](Faturamento_por_Estado.png)
 
-### 2. Mix de Produtos (Volume vs. Valor)
+### 2. Matriz de Performance: Volume vs. Faturamento
 As categorias de "Cama, Mesa e Banho" e "Beleza e Saúde" lideram em volume de pedidos. A análise interativa abaixo demonstra a distribuição entre a quantidade vendida e o faturamento gerado por cada categoria.
 
 ![GIF Interativo do Treemap](treemap_gif.gif)
